@@ -1,6 +1,6 @@
 Feature: Navigate to menu with parameter
 
-  @rerun1
+
   Scenario: Harun navigates to edit profile mneu
     Given User should be on the login page
     When User should input "mike@gmail.com" and "mike1234"

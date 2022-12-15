@@ -1,6 +1,6 @@
 Feature:
 
-  @negativeLogin
+  @wip
   Scenario Outline:
 
     Given User should be on the login page

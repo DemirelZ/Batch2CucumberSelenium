@@ -18,7 +18,7 @@ public abstract class BasePage {
 
 
     public void naviagateToTab(String tabName){
-        driver=Driver.get();
+        driver= Driver.get();
         driver.findElement(By.xpath("//nav//span[.='"+tabName+"']")).click();
 
     }

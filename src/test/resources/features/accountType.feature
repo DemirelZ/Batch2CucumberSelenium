@@ -1,5 +1,5 @@
 Feature: Account Type
-
+@wip
   Scenario: first user
     Given User should be on the login page
     When User should input "user11@test.com" and "Test123456"
