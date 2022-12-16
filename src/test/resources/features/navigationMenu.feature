@@ -1,6 +1,6 @@
 @task1
 Feature: Krafttech Log in Test
-  @wip
+
   Scenario: Login as Mike
     Given The user is on the login page
     When The user enters Mike credentials

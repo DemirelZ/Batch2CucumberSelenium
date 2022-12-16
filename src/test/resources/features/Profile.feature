@@ -11,7 +11,7 @@ Feature: Profile Tests
     And User should input the information boxes
     Then User should verify the profile updated message
 
-
+@wip
   Scenario: User should be able to see profile options
 
     When User should input "user11@test.com" and "Test123456"

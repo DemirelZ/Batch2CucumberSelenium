@@ -8,7 +8,7 @@ Feature: Navigate to menu with parameter
     When The user navigates to "Edit Profile" menu
     Then The user should be able to see home name as "Edit User Profile"
 
-  @rerun1
+  @wip
   Scenario: Eddie Murphy navigates to Developers menu
     Given User should be on the login page
     When User should input "eddiem@kraft.com" and "eddiem12"
