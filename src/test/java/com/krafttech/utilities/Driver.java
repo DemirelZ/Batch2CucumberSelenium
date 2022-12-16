@@ -85,6 +85,7 @@ public class Driver {
                     }
 
                     break;
+
                 case "remote_firefox":
                     FirefoxOptions firefoxOptions = new FirefoxOptions();
                     firefoxOptions.setCapability("platform",Platform.ANY);
